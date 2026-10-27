@@ -1,7 +1,7 @@
 # Youness Eddamej
 
 🎓 Master’s Student in Data Science  
-📍 École Normale Supérieure de Martil (ENS Tétouan)
+📍 Abdelmalek Essaâdi University Tétouan
 
 💻 Java Backend Developer with a strong foundation in computer science and databases.
 
@@ -18,6 +18,9 @@
 
 ## Interests
 - Data analysis & visualization
+- Data Engineering
+- Data Science
+- Artificial Intelligence (AI), Machine Learning (ML) and Deep Learning (DL)
 - Backend systems design
 - Intelligent and data-driven applications
 
